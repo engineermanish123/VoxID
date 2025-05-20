@@ -1,0 +1,7 @@
+venv/*
+.venv/*
+.env*
+saferwatchai*.json
+.DS_Store*
+tmp/*
+Sample/*

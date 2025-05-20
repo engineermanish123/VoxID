@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "saferwatchai",
+  "private_key_id": "29766913ea7750bd99695824cace513a2cbb583d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCLnaW7FR1XaOIC\np1M2IXUFNfTgA/5XAqfdF9expulVOchScXYeAMiptg8oPgECzDsJE9+9q13MMIwB\nSKpu7Zrk3OjHDZ+g4cwEhqejppPsbJuJs6zHdxMVQt9dnXRaY6GASh2i/9g+qz2K\nfTsUJXQ1Gy12/UIw6jTFw1yKbmpV2/P6BPhzwTV49sdeVEW/WIYPp7yszliHxXxq\ns87+i71RC4dxjEUKvji/5mZjSnS1LHE9VxHWy2u8Ia3B805fTqVo10CLX2+jTi6I\nqjGQ378y2tZ5Z5lzHK0PZQKBu+8I0ZHaiy10pE0l2PNdz+ztj2v/SC2ndiThzbHZ\noUwRrsO5AgMBAAECggEAFpUmz/Zv2wofeI9pEbnirDeYhr2On7NRxJzNKjKVzk+8\n27z3fo3g5zaICBnTXwj6yZKZ35t+3f7CPpjq3Gt5YOhsjHnjJoovTlIbfoh8p8K/\ne8wAt/jGMOuypnlH7zDrWA1k8s8QQr6/Aw4ThsQyIj7loTgAw1m2tIBPkSKf94gR\noxovKCU5TT72Wu78d7/jhTOGJxuElakvtju3jg09QYkCIDclZPFOENpoKasRpC0X\ncJfbytBB3rcXIvq6nOyL+APiUqo3ALSh3AioGNgrY+G0PEEyqwUEo4P940CpOlTO\nP7MFumNCPwdvJ0BPE4oES0xGRp45fEooTIm6cwzYyQKBgQDDP+kQBAPJPdncMwmz\nZRmaJHYEJdAtr/QFxM6CoZ0GQkfIiNHL1zA0UaagjK0RBpDNvtydCjJkPmawJzuq\nELUDjihc4ZcOY9x4DIG8MN54MZBPSnptPeJGd0jWcLX5YnpaZAJ6ZYbXiy/3CEaO\nek3Kg156WLtre4w381VGPG6WBQKBgQC3Dl87OeOFNvDUqfwo32ADKSZD55yxsPRj\nHN8Vt7RZgbxHkUNpicCu8tgiL3TSgvzgAk4PQdgIG4zkahhPrrNOWtNY6+E88MXf\nkmZNkGUPBkmxKzJpe5ieDasLcj/Mf6n54YLVMmwi3z2+e2RvnMFsa1gvGh549JEu\nMoNZrKXRJQKBgFtKHHxihCqpgp1UN6rrEEdj2NIjo+xYom24ER4+1h5BCzMV1ZHL\nMTylGJVkcN7PBRFNtfSu+dSo4HZoQZtIaHobE4Ap8ejGhCSVJGuLJdlowyJvnkJJ\nduyfhSzOUiciBjcRH59+rMdGysxj0Cl5wbl4JspphmfAwlS+rxZB1yrJAoGBAKjH\nvZKUG22WbJMIcBEXdCU16awuf1FuwMYptp8FlGn6rqimDSvf8SLdkd5jNylp0NKS\nDXsP0KoZDN0F3YiKoZSbNccFJdXUgf1TtLPLcQJbX9LU61RKuzrvi0ewfZaGFyjo\nfoMoTIASqZFZoA8wzz6x8srrIDGR/dJEjMs/3ltpAoGAAggVOiuk32s8nB8uHm5H\ndJpEEiz3NbCN+IkZv18FjBxH6mRM2O4MVmdhqUCnUTxhnnAlnzVTT04KBGPjpYdI\n2ddyQL5ZZLYILZcEyLH1692/cyTmlKlxAvuq0PZHv+/Sv2Fr39X2XjRfX1v5tX4r\nIghgn0EdUWWfEUlKaAioICI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "saferwatchai@saferwatchai.iam.gserviceaccount.com",
+  "client_id": "116293149374567017844",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/saferwatchai%40saferwatchai.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
